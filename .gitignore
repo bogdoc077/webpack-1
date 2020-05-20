@@ -1,4 +1,4 @@
 .nojekyll
 .DS_Store
-/dits/
+/dist/
 /node_modules/
